@@ -1,0 +1,20 @@
+ 驱动器 D 中的卷是 Data
+ 卷的序列号是 02F4-F8E5
+
+ D:\y19\!\c\0\输出文字点阵 的目录
+
+[.]                                  VX21_16X.DOT
+[..]                                 VX21_24H.DOT
+GB2312-6763-VX21.TXT                 VX21_24S.DOT
+gmon.out                             VX21_40K.DOT
+HZK24F.dot                           VX21_64KQG.DOT
+HZK24H.dot                           VX21_80WD.DOT
+HZK24K.dot                           输出文字点阵(用于乐学提交).c
+HZK24S.dot                           输出文字点阵(用于乐学提交).exe
+HZK32.dot                            输出文字点阵(适配学校提供字库).c
+HZK48.dot                            输出文字点阵(适配学校提供字库).exe
+JGSY_DING.TXT                        输出文字点阵(适配标准点阵字库).c
+LX-66-REF.txt                        
+test.txt                             
+              22 个文件     17,662,821 字节
+               2 个目录 170,311,180,288 可用字节
